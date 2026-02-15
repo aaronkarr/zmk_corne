@@ -49,7 +49,7 @@
 //                    | ESC | TAB |     |   |     | BKSP | DEL |
                         display-name = "Raise";
                         bindings = <
-   &kp C_VOL_UP &kp LC(1) &kp LC(2) &kp LC(3) &kp LC(4) &kp LC(5)   &kp LC(1) &kp LC(2) &kp LC(3) &kp LC(4) &kp LC(5) &kp C_NEXT
+   &kp C_VOL_UP &kp LC(N1) &kp LC(N2) &kp LC(N3) &kp LC(N4) &kp LC(N5)   &kp LC(N1) &kp LC(N2) &kp LC(N3) &kp LC(N4) &kp LC(N5) &kp C_NEXT
    &kp C_VOL_DN &trans    &trans    &trans    &trans    &kp LPAR    &kp RPAR  &kp LEFT  &kp DOWN  &kp UP    &kp RIGHT &kp C_PP
    &kp C_MUTE   &trans   &trans     &trans    &kp LBRC  &kp LBKT    &kp RBKT  &kp RBRC  &trans    &trans    &kp PIPE  &kp C_PREV
                     	                &kp ESC &kp TAB   &trans    &trans &kp BKSP &kp DEL
