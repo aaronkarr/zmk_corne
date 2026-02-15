@@ -18,7 +18,7 @@
 // | CAPW|  A  |  R  |  S  |  T  |  D  |   |  H  |  N   |  E  |  I  |  O  |  ' |
 // |  :  |  Z  |  X  |  C  |  V  |  B  |   |  K  |  M   |  ,  |  .  |  /  | F17|
 //                    | ESC | TAB | ENT |   | SPC | BKSP  | DEL |
-                        display-name = "Base";
+                        display-name = "MRKBD";
                         bindings = <
    &kp GRAVE  &kp Q       &kp W      &kp F      &kp P      &kp G   &kp J &kp L      &kp U      &kp Y      &kp SEMI    &kp MINUS
    &caps_word &mt LSHFT A &mt LALT R &mt LCTL S &mt LGUI T &kp D   &kp H &mt RGUI N &mt RCTL E &mt RALT I &mt RSHFT O &kp SQT
